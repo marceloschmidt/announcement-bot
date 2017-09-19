@@ -1,0 +1,14 @@
+{
+    "id": "14995cad-f2a5-42a4-a5f3-3a19d87531e8",
+    "name": "Announcement BOT",
+    "nameSlug": "announcement-bot",
+    "description": "Provides an announcements bot.",
+    "version": "1.0.0",
+    "requiredApiVersion": ">=0.6.1",
+    "author": {
+        "name": "Marcelo Schmidt",
+        "homepage": "https://github.com/marceloschmidt/announcement-bot",
+        "support": "https://github.com/marceloschmidt/announcement-bot/issues"
+    },
+    "classFile": "AnnouncementBot.ts"
+}
